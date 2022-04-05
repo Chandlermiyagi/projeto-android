@@ -109,6 +109,11 @@ div.video >iframe {
     height: 100%;
 }
 
+main img.grande {
+    display: block;
+    margin: auto;
+}
+
 main img.pequena {
     display: block;
     margin: auto;
