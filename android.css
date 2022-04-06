@@ -109,10 +109,10 @@ div.video >iframe {
     height: 100%;
 }
 
-main source.sc {
+source.sc {
     display: block;
     margin: auto;
-    width: 270px;
+    max-width: 270px;
 }
 
 main img.grande {
