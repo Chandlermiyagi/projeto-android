@@ -110,6 +110,7 @@ div.video >iframe {
 }
 
 source.sc {
+    background-size: cover;
     display: block;
     margin: auto;
     max-width: 270px;
